@@ -1,0 +1,6 @@
+Start process:/Users/gaoyufeng/毕设/data/normal/Normal_001.tif
+End:/Users/gaoyufeng/毕设/data/normal/Normal_001.tif
+Start process:/Users/gaoyufeng/毕设/data/tumor/Tumor_001.tif
+End:/Users/gaoyufeng/毕设/data/tumor/Tumor_001.tif
+Start process:/Users/gaoyufeng/毕设/data/mask/Tumor_001_Mask.tif
+End:/Users/gaoyufeng/毕设/data/mask/Tumor_001_Mask.tif
